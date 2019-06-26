@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "gopalvirat",
+      "name": "Gopal Sharma",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/35100967?v=4",
+      "profile": "https://github.com/gopalvirat",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "todo_app",
+  "projectOwner": "gopalvirat",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
